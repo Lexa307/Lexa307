@@ -9,8 +9,8 @@ and  im going to learn Vue.js for future projects.
 
 -----------
 [![Lexa307's github stats](https://github-readme-stats.vercel.app/api?username=Lexa307&show_icons=true&theme=synthwave&count_private=true)](https://github.com/Lexa307/github-readme-stats)
-![stats](https://github-readme-stats.vercel.app/api/pin?username=Lexa307&repo=cardgame&theme=shades-of-purple)](https://github.com/Lexa307/cardgame)
-![stats](https://github-readme-stats.vercel.app/api/pin?username=Lexa307&repo=lexa307.github.io&theme=shades-of-purple)](https://github.com/Lexa307/lexa307.github.io)
-![stats](https://github-readme-stats.vercel.app/api/pin?username=Lexa307&repo=Kido---discord-bot&theme=shades-of-purple)](https://github.com/Lexa307/Kido---discord-bot)
+[![stats](https://github-readme-stats.vercel.app/api/pin?username=Lexa307&repo=cardgame&theme=shades-of-purple)](https://github.com/Lexa307/cardgame)
+[![stats](https://github-readme-stats.vercel.app/api/pin?username=Lexa307&repo=lexa307.github.io&theme=shades-of-purple)](https://github.com/Lexa307/lexa307.github.io)
+[![stats](https://github-readme-stats.vercel.app/api/pin?username=Lexa307&repo=Kido---discord-bot&theme=shades-of-purple)](https://github.com/Lexa307/Kido---discord-bot)
 bruh
 
