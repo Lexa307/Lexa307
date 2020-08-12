@@ -1,4 +1,3 @@
-# Welcome to my github page 👋
 ## About me
 <span style="font-size: 30px">
 I am a beginner fullstack web developer. Developing backend solutions for sites and admin systems, platform bots (Discord, Telegramm),python utilities  and specific frontend with 3d modules based on THREE.js</span> <br>
